@@ -14,5 +14,13 @@ This game is developed by **cocos2d**, and here are source codes instead of rele
 So, if you want to play this game, you have to download [Cocos2d-x](https://cocos2d-x.org/download) and settle the developing environment.  
 Here I won't teach you how to set the environment, sorry for the inconvenience. Please Google it by yourself.  
 
+## Special Thanks
+This is not a game developed only by myself. (My part is UI & Game Logic)  
+Thanks to my team members. Without your efforts, I can't have such a good game.  
+Thanks to my teachers, Professor Ling-Chieh Kung, too.  
+
+## Appendix
+If you have any questions, please comment or contact me without hesitation. I'm glad to have your advices :)  
+
 First Written in 2019/04/02  
-Updated in 2019/04/02  
+Updated in 2019/04/0  
